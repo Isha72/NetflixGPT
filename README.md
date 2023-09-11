@@ -2,13 +2,16 @@
 
 - Create React App
 - Configured Tailwind CSS
+- Header
+- Login form
+- Sign Up form
 
 
 
-
+ 
 
 # FEATURES
--Login/Sign up
+- Login/Sign up
     - Sign In / Sign Up form
     - Redirects to Browse page
 - Browse (after authentictaion )
